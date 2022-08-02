@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Satyamedavarapu
-- 👀 I’m interested in ... Flutter, React
-- 🌱 I’m currently learning ...Flutter
-- 💞️ I’m looking to collaborate on ...Flutter and React
+- 👀 I’m interested in ... Flutter, Node.js, MongoDB
+- 🌱 I’m currently learning ...Node.js
+- 💞️ I’m looking to collaborate on ...Flutter
 - 📫 How to reach me ...
 
 <!---
